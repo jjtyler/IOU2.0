@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">IOU2.0</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="IOU">string</string>
+    <string name="IOUstring">IOU</string>
+    <string name="New_IOU">New IOU</string>
+    <string name="EditIOU">Edit IOU</string>
+    <string name="Add_New">Add_New</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="title_activity_activity_edit">CreateOrEditActivity</string>
+    <string name="save">Save Person</string>
+
+    <string name="name">Name</string>
+    <string name="reason">Reason</string>
+    <string name="amount">Amount</string>
+
+
+    <string name="deletePerson">Confirm person deletion.</string>
+    <string name="yes">Confirm</string>
+    <string name="no">Cancel</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
